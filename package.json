@@ -1,0 +1,22 @@
+{
+  "name": "hw04",
+  "version": "1.0.0",
+  "dependencies": {
+    "rxjs": "^6.5.4"
+  },
+  "description": "Create a **Reactive HTTP server** that receives a number passed in the request as query parameter as following: `http://localhost:4000/?n=10` and returns a `JSON` object contains the Fibonacci number of `n`.  \r **Example**: `?n=10` should return a `JSON` object: `{fib: 55}`",
+  "main": "server1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maharishi-university/mwa-homework-4-nodejs-03-Orshih71.git"
+  },
+  "author": "dios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maharishi-university/mwa-homework-4-nodejs-03-Orshih71/issues"
+  },
+  "homepage": "https://github.com/maharishi-university/mwa-homework-4-nodejs-03-Orshih71#readme"
+}
